@@ -1,0 +1,39 @@
+*{margin: 0; padding: 0;
+    
+}
+
+html{
+    font-family: 'Fira code';
+    font-weight: retina;
+    text-align: center;
+    
+}
+
+h1{
+    margin: 10px 10px;
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button{
+    border: none;
+    padding: 10px 10px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 200px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+#increment-btn{
+    background: darkred;
+}
+
+#save-btn{
+    background: darkgreen;
+}
