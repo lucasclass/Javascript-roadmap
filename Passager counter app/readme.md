@@ -1,3 +1,5 @@
+# Aplicativo de contagem de pessoas 👌
+
 >document.getElementById("count-el").innerText = 5
 
 > crie duas variavéis, minhaidade e idadecao.
@@ -22,4 +24,19 @@
 > Crie um botão Salvar.
 > para o mesmo botão id="save-btn", que chame a função salve quando é clicada.
 
-> Criar2 variáveis, nome e saudações. A variável nome deve guardar seu nome, e a saudação deve mostrar "Oi, meu nome é"
+> Criar 2 variáveis, nome e saudações. A variável nome deve guardar seu nome, e a saudação deve mostrar "Oi, meu nome é".
+
+## Prática de variáveis
+> Criar duas variáveis, nome e sobrenome
+> junte as variáveis, para uma chamada nome completo
+> Log nome completo no console
+
+> Crie duas funções, add3Points(), remove1Point
+> adicionar e remover pontos da variável myPoints
+
+## Calculadora
+
+> Criar a função: soma(), subtrair(), dividir(), multiplicar().
+> Chamar a função correta quando o usuário clicar em alguns dos botões 
+> Use num1 e num2 para ativar os números.
+> renderize o resultado usando id="sum-el".

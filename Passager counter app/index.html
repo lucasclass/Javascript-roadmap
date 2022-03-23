@@ -14,7 +14,27 @@
     <button id="save-btn" onclick="save()" >Salvar</button>
     <P id="welcome-el" ></P>
     <h3>...e continua subindo -></h3>
+    <P id="save-el" >Entradas anteriores:</P>
 
+    
+    <div class="produto">
+        <img src="ddr5.jpg" alt="memoria" class="memoria">
+        <p>Memória DDR5</p>
+        <button onclick="comprar()" id="produto-btn">Comprar: R$1.059</button>
+        <p id="error" ></p>
+    </div>
+    <div class="calculadora" >
+        <span id="num1-el" ></span>
+        <span id="num2-el" ></span>
+        <br>
+        <button class="cal" onclick="soma()" >Soma</button>
+        <button class="cal" onclick="sub()" >Subtratir</button>
+        <button class="cal" onclick="div()" >Dividir</button>
+        <button class="cal" onclick="multi()" >Multiplicar</button>
+        <br>
+        <span id="sum-el" >Resultado: </span>
+    </div>
+    
     <script src="index.js" ></script>
 </body>
 </html>
